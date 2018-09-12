@@ -1,7 +1,7 @@
 # Repo-Website-Demo
 create a webpage demo
 
-It is my first time to use Github to create a webpage. It is fun!
+Hi there! It is my first time to create a webpage using Github. It is fun!
 
 
 
